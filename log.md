@@ -7,3 +7,9 @@
 
 **Thoughts:** I really have fun with bootstrap.
 
+
+### Day 2: January 2,2022 Monday
+
+
+**Today's Progress**:completed jQuery and SASS module. Tried to do a project, but failed. Will try again Tomorrow.
+**Thoughts:** I feel frustrated to do project.
