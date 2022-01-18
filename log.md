@@ -47,3 +47,73 @@
 **Today's Progress**:Today,accepted a challenge from front-end mentor and realise css is not easy as I thought.
 
 **Thoughts:** I feel sad.
+
+
+### Day 7: January 8,2022 Saturday
+
+
+**Today's Progress**: working on challenge from frontend mentor, improving my css 
+
+**Thoughts:** struggling with CSS.
+
+
+### Day 8: January 9,2022 Sunday
+
+
+**Today's Progress**: working on CSS
+
+**Thoughts:** hard to be consistent.
+
+
+### Day 9: January 10,2022  Monday
+
+
+**Today's Progress**: I've just completed a frontend coding challenge from fromend mentor
+
+**Thoughts:** feel exteremly happy.
+
+
+### Day 10: January 11,2022 Tuesday
+
+
+**Today's Progress**: started learning javascript
+
+**Thoughts:** struglling with javascript
+
+### Day 11: January 12,2022 wednessday
+
+
+**Today's Progress**: learnt about datatype and variables,strings, global and local scope, function, pop(), push(), shift(), unshift() from freecodeCamp
+
+**Thoughts:** feels motivated.
+
+### Day 12: January 13,2022 Thursday
+
+
+**Today's Progress**: learnt about objects from freecodeCamp.
+
+**Thoughts:** feels motivated.
+
+### Day 13: January 14,2022 Friday
+
+
+**Today's Progress**: learnt about rest operator, spread operator, destructing assignments, getters nd setters, import and export
+
+**Thoughts:** feels motivated.
+
+### Day 14: January 15,2022 Saturday
+
+
+**Today's Progress**: practicing javascript
+
+**Thoughts:** feels motivated.
+
+
+### Day 15: January 16,2022 sunday
+
+
+**Today's Progress**: practicing with time and date formats, make digital time clock
+
+**Thoughts:** feels motivated.
+
+
