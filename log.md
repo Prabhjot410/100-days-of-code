@@ -120,6 +120,22 @@
 ### Day 16: January 18,2022 Tuesday
 
 
-**Today's Progress**: accepted he challenge from frontend mentor , workind on it
+**Today's Progress**: accepted the challenge from frontend mentor , workind on it
 
 **Thoughts:** feels excited.
+
+### Day 17: January 19,2022 Wednessday
+
+
+**Today's Progress**:  workind on challenge , doing CSS 
+
+**Thoughts:** feels exhausted.
+
+### Day 18: January 20,2022 Friday
+
+
+**Today's Progress**: working on challenge, doing Javascript.
+
+**Thoughts:** feels confused.
+
+
